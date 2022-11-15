@@ -20,7 +20,8 @@
     "PriceOracle": "0x4FFEb5885888257D8a77f263fd99Cb8271AdD235",
     "PriceOracleProxy": "0x66c4dC974A63338A64C338Ed6954BEb640E11e62",
     "Comptroller": "0x7892c7Ee7981D2C5e34FF8b0252493b64D84483A",
-    "Reservoir": "0xE2E108E6C21324Fe3813F8C28EE957B1F0A35413"
+    "Reservoir": "0xE2E108E6C21324Fe3813F8C28EE957B1F0A35413",
+    "LODE": "0x44b96717AD68d11F0D3Bf4389B788E7e7EE179Eb"
   },
   "Blocks": {
     "CompoundLens": 37882270,
@@ -41,7 +42,8 @@
     "PriceOracle": 37885508,
     "PriceOracleProxy": 37915783,
     "Comptroller": 37874683,
-    "Reservoir": 37875917
+    "Reservoir": 37875917,
+    "LODE": 37873599
   },
   "PriceFeed": {},
   "CompoundLens": {
@@ -108,6 +110,7 @@
       "name": "Lodestar",
       "symbol": "LODE",
       "decimals": 18,
+      "address": "0x44b96717AD68d11F0D3Bf4389B788E7e7EE179Eb",
       "contract": "Comp"
     }
   },
