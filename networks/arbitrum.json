@@ -97,14 +97,14 @@
       "symbol": "USDC",
       "decimals": 6,
       "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
-      "contract": "USDC"
+      "contract": "TransparentUpgradeableProxy"
     },
     "plvGLP": {
       "name": "Plutus Vault GLP Token",
       "symbol": "plvGLP",
       "decimals": 18,
       "address": "0x5326E71Ff593Ecc2CF7AcaE5Fe57582D6e74CFF1",
-      "contract": "plvGLP"
+      "contract": "PlvGlpToken"
     },
     "LODE": {
       "name": "Lodestar",
