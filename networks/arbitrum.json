@@ -133,7 +133,8 @@
       "name": "Lodestar",
       "symbol": "LODE",
       "decimals": 18,
-      "contract": "Comp"
+      "contract": "Comp",
+      "address": "0x44b96717AD68d11F0D3Bf4389B788E7e7EE179Eb"
     }
   },
   "CTokenDelegate": {
