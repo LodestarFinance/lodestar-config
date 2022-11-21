@@ -157,6 +157,33 @@
       "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
       "contract": "USDC"
     },
+    "MAGIC": {
+      "name": "MAGIC Token",
+      "symbol": "MAGIC",
+      "decimals": 18,
+      "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+      "contract": "MAGIC"
+    },
+    "DPX": {
+      "name": "Dopex Governance Token",
+      "symbol": "DPX",
+      "decimals": 18,
+      "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
+      "contract": "DPX"
+    },
+    "WBTC": {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "contract": "WBTC"
+    },
+    "MIM": {
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "decimals": 18,
+      "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
+      "contract": "MIM"
+    },
     "USDT": {
       "name": "Tether USD",
       "symbol": "USDT",
@@ -353,7 +380,7 @@
       "address": "0x25e6267C8a6f0A9b705B7dd9971196711765E0b8",
       "initial_exchange_rate_mantissa": "200000000000000000000000000",
       "admin": "0x67E57A0ec37768eaF99a364975ec4E1f98920D01",
-      "underlying": "0xF19547f9ED24aA66b03c3a552D181Ae334FBb8DB",
+      "underlying": "0x44b96717AD68d11F0D3Bf4389B788E7e7EE179Eb",
       "contract": "CErc20Delegator"
     }
   },
